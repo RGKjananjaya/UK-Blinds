@@ -1,0 +1,9 @@
+Hey,
+
+* Please use the following link to run the project:
+  https://rgkjananjaya.github.io/UK-Blinds/
+
+* You can find the Figma design here:
+  https://www.figma.com/design/Zl9cZwKfwTAi78t2AdzOiU/UK-Blinds?node-id=0-1&t=4qPLrNM2Eqi13cor-1
+
+Also here is the drive folder link : https://drive.google.com/drive/folders/16lSBFMkT9FdtSrp97Igfk_s8N6cPvEvj?usp=sharing

@@ -3,6 +3,9 @@ Hey,
 * Please use the following link to run the project:
   https://rgkjananjaya.github.io/UK-Blinds/
 
+* Please use the following link to check the project in github:
+  https://github.com/RGKjananjaya/UK-Blinds
+
 * You can find the Figma design here:
   https://www.figma.com/design/Zl9cZwKfwTAi78t2AdzOiU/UK-Blinds?node-id=0-1&t=4qPLrNM2Eqi13cor-1
 
